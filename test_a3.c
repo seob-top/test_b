@@ -9,4 +9,9 @@ int test_a(void) {
 	return 0;
 }
 
+int test_b(int) {
 
+	printf("aaaaaaaaaaaaaa");
+	return 0;
+
+}
